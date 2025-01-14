@@ -9,5 +9,5 @@
    - 🔭 I’m interested in software development.
 
    ## Check Out My Page
-   Visit: [https://bmjonez14.github.io/](https://yourusername.github.io/)
+   Visit: [https://bmjonez14.github.io/](https://bmjonez14.github.io/)
    ```
